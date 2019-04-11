@@ -1,5 +1,5 @@
 * GOAL - <b>It is a PLACEMENT PORTAL developed using java</b>
-
+* <b>Watch it on YouTube</b> - https://youtu.be/-9f1rbm5ksU    (1080p recommended)
 * <b>It is a desktop java application in which a person can register himself/herself as admin in placement portal.</b>
 
 * ATTRIBUTES - 
