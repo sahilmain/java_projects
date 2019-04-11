@@ -1,4 +1,4 @@
-* GOAL - It is a PLACEMENT PORTAL developed using java
+* GOAL - <b>It is a PLACEMENT PORTAL developed using java</b>
 
 * <b>It is a desktop java application in which a person can register himself/herself as admin in placement portal.</b>
 
